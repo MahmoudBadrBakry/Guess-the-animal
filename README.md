@@ -4,6 +4,7 @@
 * [Overview](#Overview)
 * [Used Dependencies](#Used-Dependencies)
 * [Learning Outcomes](#Learning-Outcomes)
+* [Project Link](#Project-Link)
 
 ## Overview
 It's a simple interactive game where the computer will try to guess the animal that the person has in mind with the help of yes or no questions. During the game, the computer will extend its knowledge base by learning new facts about animals and using this information in the next game.
@@ -16,3 +17,6 @@ It's a simple interactive game where the computer will try to guess the animal t
 - Internationalization, application with different languages using ResourceBundle and resources files.
 - Parctice on regex using Pattern and Matcher.
 - Saving and Loading data from (JSON, XML, YAML) files.
+
+## Project Link
+[Guess-the-animal JetBrains link](https://hyperskill.org/projects/132?category=2&track=17)
